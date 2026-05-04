@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Alessandro"
+name                     : &name "Cristina"
 description              : &description "personal description"
-url                      : https://morabito-a.github.io/info/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cristina-cosentino.github.io/page/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "morabito-a/info" #"academicpages/academicpages.github.io" #
+repository               : "cristina-cosentino/page" #"academicpages/academicpages.github.io" #
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,22 +22,22 @@ repository               : "morabito-a/info" #"academicpages/academicpages.githu
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Alessandro Morabito"
+  name             : "Cristina Cosentino"
   pronouns         : # example: "she/her"  
-  bio              : "Energy Engineer"
-  #"Technology Platform of Hydraulic Machines at EPFL"
+  bio              : "Molecular Biologist"
+  #"Senior researcher"
   location         : "Lausanne, Switzerland"
   employer         : #"PTMH, EPFL"
   uri              : # URL
-  email            : "morabito.alessandro@email.com" 
+  email            : "cristina.cosentino3@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vFWiJQIAAAAJ&hl=it&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=k_fwOOEAAAAJ&hl=it&oi=sra"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0328-5681"
+  orcid            : "https://orcid.org/0000-0002-2876-3953"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Alessandro-Morabito-2"
+  researchgate     : "https://www.researchgate.net/profile/Cristina-Cosentino-2?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  alessandro-morabito-06314384/
+  linkedin         :  "https://www.linkedin.com/in/cristina-cosentino-57b31a72/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
