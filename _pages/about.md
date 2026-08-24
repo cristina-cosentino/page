@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alessandro Morabito"
+title: "Cristina Cosentino"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,29 +12,22 @@ I am a molecular and cellular biologist with over 10 years experience in metabol
 
 Work experience
 ======
-### 2021 - 2024: **Research Associate and Project Manager** 
-`Technology Platform of Hydraulic Machines at EPFL, Swizterland`
-  * Developed analytical and numerical models to support feasibility analyses for hydropower plant operations, collaborating with cross-functional engineering teams. Monitored operational parameters and constraints, identifying potential risks to ensure efficient plant performance.
-  * Conducted methodological analysis and implementation of hydraulic short-circuit (HSC) systems for pumped-storage power plants participating in the ancillary service market, focusing on a 210 MW hydropower plant.
-  * Partnered with a _Machine Learning_ research team to predict fatigue phenomena in hydro-mechanical components during start-up sequences.
-  * Lead complex 3D Computational Fluid Dynamics (CFD) analyses to simulate and understand intricate water-flow conditions and assess system performances. 
-  * Developed and led research portfolios, demonstrating expertise in strategic planning and execution of experimental and numerical investigations.
-  * Authored technical reports, published scientific papers, and contributed to funding applications.
+### 2019 - 2026: **Senior Research Associate** 
+`Department of Fundamental Neuroscience, University of Lausanne, Swizterland`
+  * Lead of research projects on the role of small non-coding RNAs in pancreatic islet remodelling in response to chronic stress.
+  * Project and budget management.
+  * Plan and execution of complex cellular and molecular biology experiments.
+  * Securement and management of external funding from national and European institutions. 
+  * Publication and communication of scientific results.
+  * Supervision of 2 PhD students, 4 undergraduate students, lab technicians and interns
+  * Teaching activities and participation in departmental event organization committees
 
-### 2014 - 2021: **Energy Engineer, Industrial Collaborator & Consultant**
-`Aero-Thermo-Mechanics at ULB, Belgium`
-  * Succeed in the geometrical optimization of the pump cutwater for reverse operation, leading to a new design and 3.9% gain in hydraulic efficiency
-  * Managed technical-economic calculations to define the required investments for prosumers and examine new business cases to support the energy transition: the Belgian case – [EPOC 2030-2050 prj](https://www.epocbelgium.be/en)
-  * Conducted performance and flexibility analysis to facilitate engagement in the electric grid balance of drinking water distributors. Evaluated Belgian potential and orchestrated technical implementation - [FlexWATTer prj](https://www.uee.uliege.be/cms/c_6038805/fr/flexwatter)  
-  * Pioneered the design and implementation of a groundbreaking micro-pumped hydro energy storage installation seamlessly integrated into a SmartGrid - [Smart-Water prj](https://www.multitel.eu/projects/smartwater/)
-  * Executed life-cycle assessment and greenhouse gas emissions (GHG) estimation for alternative hydropower solutions utilizing underground cavities - [Smart-Water prj](https://www.multitel.eu/projects/smartwater/)
-  * Assessed energy load and consumption for an indoor ski resort equipped with PV and reversible pump, including design and energy-flux estimation - (MontiSki prj) 
-  * Engaged in the analysis and thermodynamics modeling of Compressed Air Energy Storage (CAES) systems and thermal storage – (CAES-CET prj)
-  * Conducted fluid-dynamic analysis of air-intake systems for a light helicopter – [ESPOSA prj](http://www.esposa-project.eu)
-  
-### 2016 **Design Engineer Intern**
-`Ensival-Moret pump, Belgium`
-  * Crafted a specialized numerical model tailored to facilitate an informed selection of commercial centrifugal pumps optimized for generating mode. Integrated economic and technical factors for comprehensive analysis.
+### 2016 - 2019: **Postdoctoral researcher**
+`Center for Diabetes Research, Université libre de Bruxelles, Belgium`
+  * Responsibility of research projects on pathogenic mechanisms of monogenic forms of diabetes and type-2 diabetes
+  * Plan and execution of cellular and molecular biology experiments
+  * Publication and communication of scientific results 
+  * Supervision of undergraduate students
   
 Education
 ======
