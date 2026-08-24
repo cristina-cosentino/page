@@ -8,8 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-In my recent role, I held the position of Research Associate at the Technology Platform of Hydraulic Machines at EPFL, Switzerland. I specialized in analytical and numerical modeling for hydropower plant operations, focusing on hydraulic short-circuit analysis for pumped-storage plants partecipating in the modern energy markets. Previously, as an Energy Engineer, Industrial Collaborator & Consultant at ULB, Belgium, I was engaged in multiple applied energy projects focusing on optimization, flexibility and sustainability. 
-I hold a Ph.D. in Engineering Sciences, an M.Sc. degree in Science of Management, and an M.Sc. degree in Energy Engineering.
+I am a molecular and cellular biologist with over 10 years experience in metabolic adaptation and diabetes. During my career, I have conducted investigations at the interface of endocrinology, immunometabolism and RNA biology. My research contributed to identify RNA-based mechanisms as mediators of tissue adaptation to chronic nutritional stress and immune - endocrine cell crosstalk. 
 
 Work experience
 ======
