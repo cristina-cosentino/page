@@ -14,7 +14,7 @@ Work experience
 ======
 ### 2019 - 2026: **Senior Research Associate** 
 `Department of Fundamental Neuroscience, University of Lausanne, Swizterland`
-  * Lead of research projects on the role of small non-coding RNAs in pancreatic islet remodelling in response to chronic stress.
+  * Lead of research projects on the role of small non-coding RNAs in pancreatic islet remodelling during chronic stress.
   * Project and budget management.
   * Plan and execution of complex cellular and molecular biology experiments.
   * Securement and management of external funding from national and European institutions. 
@@ -31,14 +31,12 @@ Work experience
   
 Education
 ======
-* Ph.D. in Engineering Sciences and Technology, Université libre de Bruxelles, Belgium.<br>
-[Thesis: Experimental and numerical analysis of a Pump as Turbine in micro Pumped Hydro Energy Storage
-](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/326182/Holdings)
-* M.Sc. in Science of Management, Vrije Universiteit Brussel, Belgium.<br> 
-[Thesis: Business Model For Energy Management Enterprises](https://www.researchgate.net/publication/352216001_Business_Model_For_Energy_Management_Enterprises?channel=doi&linkId=60bf6773458515bfdb5014bf&showFulltext=true)
-* M.Sc. in Energy Engineering - Power Generation, Politecnico di Milano, Italy.<br> 
-[Thesis: Design method and optimization of Deriaz pump turbine for hydraulic energy storage](https://www.politesi.polimi.it/handle/10589/93737)
-* B.S. in Energy Engineering - Industrial Engineering, Politecnico di Milano, Italy
+* Ph.D. in Transnational Medicine, University of Milan, Italy.<br>
+[Thesis: Role of tRNA-modifying enzymes in pancreatic beta cell demise.
+](https://air.unimi.it/handle/2434/335205)
+* M.Sc. in Molecular and Cellular Biology, University of Bologna, Italy.<br> 
+[Thesis: Identification and characterization of thyroid ion channels using live-cell imaging fluorescence microscopy]
+* B.S. in Biology, University of Bologna, Italy
 
 Additional certified courses
 ======
